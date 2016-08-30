@@ -1,2 +1,0 @@
-# fedible
-personal website / blog
