@@ -1,25 +1,42 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-08-30 21:19:30 +1000
-categories: jekyll update
+title:  "Order records by day of week in rails"
+date:   2015-09-07 21:19:30 +1000
+categories: rails ruby
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I recently had a small challenge to order the records of a model by “day of week” .  Records with day of week as Monday should appear on the top and stack multiple records of the same day.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**Setting up the models:**
 
-Jekyll also offers powerful support for code snippets:
+In order to achieve this, I took a very simple approach. I use, Activerecord::Enum module in rails to build this. I first added a column called day_of_week
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+{% highlight shell %}
+$ rails g migration add_day_of_week_to_class_schedules day_of_week:integer
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+In the class_schedule model, we would need to define the enum with the days of the week :
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+{% highlight ruby %}
+class ClassSchedule < ActiveRecord::Base
+ enum day_of_week: [:monday, :tuesday, :wednesday, :thursday, :friday, :saturday, :sunday]
+end
+{% endhighlight %}
+
+The order in enum definition is extremely important. So in our database, data in day_of_week column would look something like the following :
+
+Monday = 0 .. Sunday = 6
+
+In order to add this as a selectbox in our activeadmin form :
+
+{% highlight ruby %}
+ActiveAdmin.register ClassSchedule do
+  form html: { multipart: true } do |f|
+    f.inputs do
+     .... other inputs ...
+      f.input :day_of_week, as: :select, collection: ClassSchedule.day_of_weeks.keys, label: "Day"
+    end
+   f.actions
+  end
+  permit_params  :day_of_week
+end
+{% endhighlight %}
