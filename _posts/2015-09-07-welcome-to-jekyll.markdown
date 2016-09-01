@@ -2,7 +2,7 @@
 layout: post
 title:  "Order records by day of week in rails"
 date:   2015-09-07 21:19:30 +1000
-categories: rails ruby
+categories: activeadmin, rails, rails4, ruby, tips
 ---
 I recently had a small challenge to order the records of a model by “day of week” .  Records with day of week as Monday should appear on the top and stack multiple records of the same day.
 
