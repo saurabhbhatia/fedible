@@ -13,7 +13,7 @@ permalink: /resume/
 - Elastic Meetup Sydney - [Geo Search with Elasic](http://slides.com/saurabhbhatia/geo-elastic#/)
   <iframe src="//slides.com/saurabhbhatia/geo-elastic/embed" width="640" height="480" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 - Conducted Workshops on HTML5 Programming, Free Software Licensing , Ubuntu Linux at various Universities across India as a part of freelance engagement with http://iwillstudy.com.
-- Organizer, Open Source Entrepreneurship Forum a 2 Day 1 track conference in Hyderabad covered in [Wall Street Journal](http://goo.gl/GtPR3 )
+- Organizer, Open Source Entrepreneurship Forum a 2 Day 1 track conference in Hyderabad covered in [Wall Street Journal's Mint](http://goo.gl/GtPR3 )
 - Represented India at Round Table Conference , SAARC (The South Asian Association for Regional Cooperation) for Open Source in Education 2006.
 
 ## Published Articles
