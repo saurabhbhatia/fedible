@@ -7,6 +7,9 @@ permalink: /work/
 **Talks**
 
 - RubyConf Brazil 2011 - [HTML5 websockets in Rails](http://evts.at/1fKv9m2)
+  <video src="http://evts.at/1fKv9m2" controls>
+  Your browser does not support the video tag.
+  </video>
 - RubyConf Taiwan 2014 - Lightening talk
 - Mumbai Ruby Meetup - [Barrister RPC](http://slides.com/saurabhbhatia/geo-elastic#/)
   <iframe src="https://drive.google.com/file/d/0ByHaJIp_Oob4MlA3dXlxZWx3Q0U/preview" width="640" height="480"></iframe>
