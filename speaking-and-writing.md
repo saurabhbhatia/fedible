@@ -6,6 +6,7 @@ permalink: /speaking-and-writing/
 
 ## Book
 
+![book cover](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6294OS_cover.jpg)
 [A book](https://www.packtpub.com/application-development/rails-4-application-development-hotshot) on Rails 4 projects that covers 10 different practical projects.
 
 ## Talks
