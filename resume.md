@@ -9,8 +9,8 @@ permalink: /resume/
 - Bachelor of Engineering , Electronics and Communication Engineering from Saurashtra University
 
 ## Technology Knowhow:
-- Rails v 1.2.5 to v 4.2.5
-- Ruby 1.8.7, 1.9.2,1.9.3 , 2.1, 2.2
+- Rails v 1.2.5 to v 5.0
+- Ruby 1.8.7, 1.9.3 , 2.2+
 - Javascript
 - JQuery
 - React JS (Beginner)
@@ -19,16 +19,20 @@ permalink: /resume/
 - PostgreSQL, pgadmin
 - MongoDB 2.4
 - Mongoid 2.x, 3.x, 4.x
+- Redis
 - Elastic Search
+- Terraform
 - Ubuntu 5.04 to 16.04 (Server and Desktop Administration)
+- HTML5
+- CSS3, SASS (compass, bourbon, neat)
+- Media queries and responsive web design
 - git, svn
 - deployment using mina, capistrano
 - Continuous Integration Tools - Circle CI, Codeship
-- Apache, nginx, unicorn, mongrel, puma
-- AWS EC2, S3, Opsworks, RDS, elasticache, cloudwatch, Route 53
+- Apache, Nginx, Unicorn, puma
+- AWS EC2, S3, Opsworks, RDS, Elasticache, cloudwatch, Route 53
 - Chef
 - VPS management (linode, digitalocean etc.)
-- HTML5 , CSS3
 - Golang (Beginner)
 - route & workflow
 - Spree Commerce
