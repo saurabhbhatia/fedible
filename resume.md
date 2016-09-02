@@ -4,22 +4,35 @@ title: Resume
 permalink: /resume/
 ---
 
-## Talks
+## Education
 
-- RubyConf Brazil 2011 - [HTML5 websockets in Rails](http://evts.at/1fKv9m2)
-- RubyConf Taiwan 2014 - Lightening talk - MongoDB Everything
-- Mumbai Ruby Meetup - [Barrister RPC](http://slides.com/saurabhbhatia/geo-elastic#/)
-  <iframe src="https://drive.google.com/file/d/0ByHaJIp_Oob4MlA3dXlxZWx3Q0U/preview" width="640" height="480"></iframe>
-- Elastic Meetup Sydney - [Geo Search with Elasic](http://slides.com/saurabhbhatia/geo-elastic#/)
-  <iframe src="//slides.com/saurabhbhatia/geo-elastic/embed" width="640" height="480" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-- Conducted Workshops on HTML5 Programming, Free Software Licensing , Ubuntu Linux at various Universities across India as a part of freelance engagement with http://iwillstudy.com.
-- Organizer, Open Source Entrepreneurship Forum a 2 Day 1 track conference in Hyderabad covered in [Wall Street Journal's Mint](http://goo.gl/GtPR3 )
-- Represented India at Round Table Conference , SAARC (The South Asian Association for Regional Cooperation) for Open Source in Education 2006.
+- Bachelor of Engineering , Electronics and Communication Engineering from Saurashtra University
 
-## Published Articles
-
-- [SitePoint Ruby](http://www.sitepoint.com/author/sbhatia/)
-- [Linux User and Developer](http://linuxuser.co.uk) - Print
-- [Linux For You](http://linuxforu.com) - Print
-- [Developer.com](http://www.developer.com/author/SaurabhBhatia4350.htm)
-- RailsMagazine [Article 1](http://goo.gl/oXn6z), [Article 2](http://goo.gl/Tc6FS)
+## Technology Knowhow:
+- Rails v 1.2.5 to v 4.2.5
+- Ruby 1.8.7, 1.9.2,1.9.3 , 2.1, 2.2
+- Javascript
+- JQuery
+- React JS (Beginner)
+- Angular JS (Intermediate)
+- MySQL, MySQL Workbench / SQL Yog
+- PostgreSQL, pgadmin
+- MongoDB 2.4
+- Mongoid 2.x, 3.x, 4.x
+- Elastic Search
+- Ubuntu 5.04 to 16.04 (Server and Desktop Administration)
+- git, svn
+- deployment using mina, capistrano
+- Continuous Integration Tools - Circle CI, Codeship
+- Apache, nginx, unicorn, mongrel, puma
+- AWS EC2, S3, Opsworks, RDS, elasticache, cloudwatch, Route 53
+- Chef
+- VPS management (linode, digitalocean etc.)
+- HTML5 , CSS3
+- Golang (Beginner)
+- route & workflow
+- Spree Commerce
+- Payment Gateway Integration(Paypal, Stripe, Authorize.net,Indian Payment Gateways)
+- Bitcoin
+- Joomla (Installation, Configuration,Customization)
+- Wordpress(Installation, Configuration)
