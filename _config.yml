@@ -24,7 +24,6 @@ twitter_username: _wub
 github_username:  saurabhbhatia
 gems:
   - jekyll-sitemap
-  - jekyll-archives
 
 # Build settings
 markdown: kramdown
