@@ -42,6 +42,7 @@ permalink: /resume/
 **March 2016 ­- Till Date, Ruby on Rails Developer, Bulletproof Networks Ltd.***
 
 Responsibilities:
+
 - Technology decisions for development, test and production environments.
 - Develop and test features of various applications within bulletproof.
 - Develop front end features.
@@ -50,6 +51,7 @@ Responsibilities:
 **September 2014 - March 2016, Senior Ruby on Rails Developer, Flatmates.com.au**
 
 Responsibilities:
+
 - Technology decisions for development, test and production environments.
 - Design database for flatmates
 - Develop features for site wide search
