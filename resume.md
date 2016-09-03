@@ -45,9 +45,9 @@ permalink: /resume/
 
 ## Work History
 
-**March 2016 ­- Till Date, Ruby on Rails Developer, [Bulletproof Networks Ltd.](https://bulletproof.net.au)***
+### March 2016 ­- Till Date, Ruby on Rails Developer, [Bulletproof Networks Ltd.](https://bulletproof.net.au)
 
-### Responsibilities:
+**Responsibilities:**
 
 - Technology decisions for development, test and production environments.
 - Develop and test features of various applications within bulletproof.
@@ -66,9 +66,9 @@ systems in the company.
 - Fix bugs and add new features to the frontend application.
 - Fix issues and develop new features in the backend Rails api.
 
-**September 2014 - March 2016, Senior Ruby on Rails Developer, [Flatmates.com.au](http://flatmates.com.au)**
+## September 2014 - March 2016, Senior Ruby on Rails Developer, [Flatmates.com.au](http://flatmates.com.au)
 
-### Responsibilities:
+**Responsibilities:**
 
 - Technology decisions for development, test and production environments.
 - Design database for flatmates
@@ -86,29 +86,32 @@ Flatmates.com.au greenfields build. Developed using Ruby 2.2.3, Rails 4.2.5, Ela
 - automate infrastructure using Opsworks Chef.
 - Use AWS Opsworks to build the infrastructure - EC2, RDS, Route53, Elasticcache.
 
-**August 2014 - September 2014 Ruby on Rails Developer (Contract), [Faria Systems, Taipei](http://faria.co)***
+### August 2014 - September 2014 Ruby on Rails Developer (Contract), [Faria Systems, Taipei](http://faria.co)***
 
 Worked on building v1 of the [SSO forward authentication API](https://develop.faria.co/launchpad/#integration) using Ruby, Rails 4.1.
 
-### Responsibilities:
+**Responsibilities:**
+
 - Design a new SSO system.
 - Implement the SSO system.
 - Integrate multiple applications with SSO System.
 - User acceptance testing.
 
-**June 2013 – July 2014, CTO, [Ruling Digital Inc.](http://www.rulingcom.com/main.php)***
+### June 2013 – July 2014, CTO, [Ruling Digital Inc.](http://www.rulingcom.com/main.php)***
 
-### Responsibilities:
+**Responsibilities:**
+
 - Technology Decisions and Architecture
 - Conceptualization of New Features, Product Related Ideas
 - Development of features
 - Management and Streamlining of development process in the organization.
 - Help improve other functions in the company (e.g. customer service process).
 
-### RulingOrbit :
+**RulingOrbit**
+
 RulingOrbit is the flagship product of RulingDigital. It is a CMS for Universities and Departments. Version 2 of the product is written in php and mysql. The new version of the product is written in Ruby, Rails and Mongodb.
 
-### RulingOrbit v4.2 (June 2013 – January 2014)
+**RulingOrbit v4.2 (June 2013 – January 2014)**
 
 RulingOrbit development in Rails 3.2, Mongoid 2.x, MongoDb 2.4, Ruby 1.9.3
 
@@ -127,7 +130,7 @@ Earlier customer service had to install the environment from scratch.
 - Documentation of product and process.
 
 
-### Orbit App Store: (December 2013 - January 2014)
+**Orbit App Store: (December 2013 - January 2014)**
 
 New application of Orbit App store in Rails 4.1, Mongoid, Mongodb 2.4, Ruby 2.1
 
@@ -137,7 +140,7 @@ New application of Orbit App store in Rails 4.1, Mongoid, Mongodb 2.4, Ruby 2.1
 - Module Downloading and installation.
 - Differentiation between free modules, purchased modules and built in modules.
 
-### RulingOrbit v4.5(January 2014 - July 2014)
+**RulingOrbit v4.5(January 2014 - July 2014)**
 
 Complete rewrite of RulingOrbit in Rails 4.1, Mongoid, MongoDb 2.4, Ruby 2.1.
 
@@ -149,7 +152,9 @@ Complete rewrite of RulingOrbit in Rails 4.1, Mongoid, MongoDb 2.4, Ruby 2.1.
 - Created Initializer templates for modules and plugins.
 - Custom form builder for member profiles and roles. The customer can configure custom fields for member profiles and specific roles.
 
-**January 2008 – May 2013, Co-Founder, CEO, Safew Technology Labs**
+### January 2008 – May 2013, Co-Founder, CEO, Safew Technology Labs
+
+Worked on several client projects and products for in Ruby 1.8-1.9, Rails 2.x - Rails 3.x, MySQL
 
 - Responsible for setting up the company legal process
 - Team recruitment
@@ -158,7 +163,9 @@ Complete rewrite of RulingOrbit in Rails 4.1, Mongoid, MongoDb 2.4, Ruby 2.1.
 - Project Management, Client Interaction
 - Marketing and Sales – Responsible for Marketing a niche high technology product to SMEs in India.
 
-**June 2008 – December 2008 , Co-Founder, COO India Operations, Innozon Software Pvt Ltd**
+### June 2008 – December 2008 , Co-Founder, COO India Operations, Innozon Software Pvt Ltd
+
+Worked on various products for in Ruby 1.7, Rails 2.3, MySQL
 
 - Team Recruitment
 - Training and Team development
@@ -166,7 +173,7 @@ Complete rewrite of RulingOrbit in Rails 4.1, Mongoid, MongoDb 2.4, Ruby 2.1.
 - Feature Design and App architecture
 - Ensuring timely Product Delivery
 
-**August 2005  January 2008 – Software Engineer, Satyam Computer Services Ltd now Tech Mahindra(http://techmahindra.com/)**
+### August 2005  January 2008 – Software Engineer, Satyam Computer Services Ltd now Tech Mahindra(http://techmahindra.com/)
 
 Worked on various projects for internal use Spring Framework, Hibernate, MySQL, Ruby 1.7, Rails 1.0
 
