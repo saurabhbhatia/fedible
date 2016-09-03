@@ -4,7 +4,7 @@ title: Speaking and Writing
 permalink: /speaking-and-writing/
 ---
 
-## Book
+## Book(s)
 
 ### Published :
 
@@ -34,3 +34,7 @@ permalink: /speaking-and-writing/
 - [Linux For You](http://linuxforu.com) - Print
 - [Developer.com](http://www.developer.com/author/SaurabhBhatia4350.htm)
 - RailsMagazine [Article 1](http://goo.gl/oXn6z), [Article 2](http://goo.gl/Tc6FS)
+
+## Published Fiction
+
+- [Wormhole Monologue](http://www.bewilderingstories.com/issue488/wormhole_monologue.html)
