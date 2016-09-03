@@ -46,6 +46,7 @@ permalink: /resume/
 ## Work History
 
 ### March 2016 ­- Till Date
+
 ### Ruby on Rails Developer, [Bulletproof Networks Ltd.](https://bulletproof.net.au)
 
 **Responsibilities:**
@@ -68,6 +69,7 @@ systems in the company.
 - Fix issues and develop new features in the backend Rails api.
 
 ### September 2014 - March 2016
+
 ### Senior Ruby on Rails Developer, [Flatmates.com.au](http://flatmates.com.au)
 
 **Responsibilities:**
@@ -89,6 +91,7 @@ Flatmates.com.au greenfields build. Developed using Ruby 2.2.3, Rails 4.2.5, Ela
 - Use AWS Opsworks to build the infrastructure - EC2, RDS, Route53, Elasticcache.
 
 ### August 2014 - September 2014
+
 ### Ruby on Rails Developer(Contract), [Faria Systems, Taipei](http://faria.co)
 
 Worked on building v1 of the [SSO forward authentication API](https://develop.faria.co/launchpad/#integration) using Ruby, Rails 4.1.
@@ -101,6 +104,7 @@ Worked on building v1 of the [SSO forward authentication API](https://develop.fa
 - User acceptance testing.
 
 ### June 2013 – July 2014
+
 ### CTO, [Ruling Digital Inc.](http://www.rulingcom.com/main.php)
 
 **Responsibilities:**
@@ -157,6 +161,7 @@ Complete rewrite of RulingOrbit in Rails 4.1, Mongoid, MongoDb 2.4, Ruby 2.1.
 - Custom form builder for member profiles and roles. The customer can configure custom fields for member profiles and specific roles.
 
 ### January 2008 – May 2013
+
 ### Co-Founder, CEO, Safew Technology Labs
 
 Worked on several client projects and products for in Ruby 1.8-1.9, Rails 2.x - Rails 3.x, MySQL
@@ -169,6 +174,7 @@ Worked on several client projects and products for in Ruby 1.8-1.9, Rails 2.x - 
 - Marketing and Sales – Responsible for Marketing a niche high technology product to SMEs in India.
 
 ### June 2008 – December 2008
+
 ### Co-Founder, COO India Operations, Innozon Software Pvt Ltd
 
 Worked on various products for in Ruby 1.7, Rails 2.3, MySQL
@@ -180,6 +186,7 @@ Worked on various products for in Ruby 1.7, Rails 2.3, MySQL
 - Ensuring timely Product Delivery
 
 ### August 2005  January 2008
+
 ### Software Engineer, Satyam Computer Services Ltd now [Tech Mahindra](http://techmahindra.com/)
 
 Worked on various projects for internal use Spring Framework, Hibernate, MySQL, Ruby 1.7, Rails 1.0
