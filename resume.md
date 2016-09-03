@@ -88,7 +88,7 @@ Flatmates.com.au greenfields build. Developed using Ruby 2.2.3, Rails 4.2.5, Ela
 
 **August 2014 - September 2014 Ruby on Rails Developer (Contract), [Faria Systems, Taipei](http://faria.co)***
 
-Worked on building v1 of the [SSO forward authentication API](https://develop.faria.co/launchpad/#integration) using Ruby, Rails 4.1
+Worked on building v1 of the [SSO forward authentication API](https://develop.faria.co/launchpad/#integration) using Ruby, Rails 4.1.
 
 ### Responsibilities:
 - Design a new SSO system.
@@ -168,6 +168,7 @@ Complete rewrite of RulingOrbit in Rails 4.1, Mongoid, MongoDb 2.4, Ruby 2.1.
 
 **August 2005  January 2008 – Software Engineer, Satyam Computer Services Ltd now Tech Mahindra(http://techmahindra.com/)**
 
+Worked on various projects for internal use Spring Framework, Hibernate, MySQL, Ruby 1.7, Rails 1.0
+
 - Responsible for Development of Requirements
 - Develop Applications for Supporting Internal Business Units
-- Technologies Used : Spring Framework, Hibernate, MySQL, Ruby on Rails
