@@ -11,6 +11,8 @@ permalink: /resume/
 ## Technology Knowhow:
 - Rails v 1.2.5 to v 5.0
 - Ruby 1.8.7, 1.9.3 , 2.2+
+- RSpec, Capybara, WebMock
+- Jasmine, Gulp
 - Javascript
 - JQuery
 - React JS (Beginner)
@@ -53,7 +55,7 @@ permalink: /resume/
 - Write developer style guide
 
 Foundation team handles software that require automation to several business processes within the company. The team develops and maintains several applications, rubygems developed using
-Rails 4.2, Ruby 2.2.3, Angular JS 1.5, rspec, Jasmine.
+Rails 4.2, Ruby 2.2.3, Angular JS 1.5, RSpec, Jasmine.
 
 - Added static security scanning to build process.
 - Added dependency tracking for various projects.
@@ -77,6 +79,7 @@ systems in the company.
 - Write developer style guides, system guides.
 
 Flatmates.com.au greenfields build. Developed using Ruby 2.2.3, Rails 4.2.5, Elasticsearch, ReactJS, PostgreSQL.
+
 - Build advanced search backend using Elasticsearch.
 - build frontend using SASS (custom css framework using bourbon, neat).
 - build frontend using Javascript, JQuery, ReactJS.
@@ -105,7 +108,9 @@ Worked on building v1 of the [SSO forward authentication API](https://develop.fa
 ### RulingOrbit :
 RulingOrbit is the flagship product of RulingDigital. It is a CMS for Universities and Departments. Version 2 of the product is written in php and mysql. The new version of the product is written in Ruby, Rails and Mongodb.
 
-### RulingOrbit v4.2 (June 2013 – January 2014) Rails 3.2, Mongoid 2.x, MongoDb 2.4, Ruby 1.9.3
+### RulingOrbit v4.2 (June 2013 – January 2014)
+
+RulingOrbit development in Rails 3.2, Mongoid 2.x, MongoDb 2.4, Ruby 1.9.3
 
 - Development of core kernel of the application.
 - Finishing version 4.2 of the product and preparing for release.
@@ -124,13 +129,17 @@ Earlier customer service had to install the environment from scratch.
 
 ### Orbit App Store: (December 2013 - January 2014)
 
+New application of Orbit App store in Rails 4.1, Mongoid, Mongodb 2.4, Ruby 2.1
+
 - Developed JSON API for extensions (modules, plugins) and templates.
 - Custom methods for API authorization.
 - Client verification and allowing in app purchase of templates and extensions.
 - Module Downloading and installation.
 - Differentiation between free modules, purchased modules and built in modules.
 
-### RulingOrbit v4.5(January 2014 - July 2014) Rails 4.1, Mongoid, MongoDb 2.4, ruby 2.1
+### RulingOrbit v4.5(January 2014 - July 2014)
+
+Complete rewrite of RulingOrbit in Rails 4.1, Mongoid, MongoDb 2.4, Ruby 2.1.
 
 - Facilitated in migrating the git hosting to gitlab from github. Each module is a rails engine maintained in a separate repository. Hence, there were several repositories (almost 50 repos including the modules for old and new versions).
 - Architecture of new templating mechanism for the system. The earlier templating mechanism had several issues with SEO and discovery. We designed a more SEO friendly template mechanism that does not expect the developer to learn anything new other than html, css and javascript.
