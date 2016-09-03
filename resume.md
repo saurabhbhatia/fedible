@@ -66,7 +66,7 @@ systems in the company.
 - Fix bugs and add new features to the frontend application.
 - Fix issues and develop new features in the backend Rails api.
 
-## September 2014 - March 2016, Senior Ruby on Rails Developer, [Flatmates.com.au](http://flatmates.com.au)
+### September 2014 - March 2016, Senior Ruby on Rails Developer, [Flatmates.com.au](http://flatmates.com.au)
 
 **Responsibilities:**
 
@@ -86,7 +86,7 @@ Flatmates.com.au greenfields build. Developed using Ruby 2.2.3, Rails 4.2.5, Ela
 - automate infrastructure using Opsworks Chef.
 - Use AWS Opsworks to build the infrastructure - EC2, RDS, Route53, Elasticcache.
 
-### August 2014 - September 2014 Ruby on Rails Developer (Contract), [Faria Systems, Taipei](http://faria.co)***
+### August 2014 - September 2014 Ruby on Rails Developer (Contract), [Faria Systems, Taipei](http://faria.co)
 
 Worked on building v1 of the [SSO forward authentication API](https://develop.faria.co/launchpad/#integration) using Ruby, Rails 4.1.
 
@@ -97,7 +97,7 @@ Worked on building v1 of the [SSO forward authentication API](https://develop.fa
 - Integrate multiple applications with SSO System.
 - User acceptance testing.
 
-### June 2013 – July 2014, CTO, [Ruling Digital Inc.](http://www.rulingcom.com/main.php)***
+### June 2013 – July 2014, CTO, [Ruling Digital Inc.](http://www.rulingcom.com/main.php)
 
 **Responsibilities:**
 
@@ -173,7 +173,7 @@ Worked on various products for in Ruby 1.7, Rails 2.3, MySQL
 - Feature Design and App architecture
 - Ensuring timely Product Delivery
 
-### August 2005  January 2008 – Software Engineer, Satyam Computer Services Ltd now Tech Mahindra(http://techmahindra.com/)
+### August 2005  January 2008 – Software Engineer, Satyam Computer Services Ltd now [Tech Mahindra](http://techmahindra.com/)
 
 Worked on various projects for internal use Spring Framework, Hibernate, MySQL, Ruby 1.7, Rails 1.0
 
