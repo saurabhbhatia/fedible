@@ -196,7 +196,7 @@ Worked on various projects for internal use Spring Framework, Hibernate, MySQL, 
 
 ## Open Source & Community work
 
-- Contributor & Mentor, Rails Bridge (h  ttps://github.com/railsbridge?tab=members)
+- Contributor & Mentor, [Rails Bridge](https://github.com/railsbridge?tab=members)
 - [RubyGems Contributions](https://rubygems.org/profiles/saurabhbhatia)
 - Former Community lead at Twincling Open Source Community involved in active promotion of Open Source technologies in Hyderabad.
 - Organizer, Open Source Entrepreneurship Forum a 2 Day 1 track conference in Hyderabad covered in [Mint](http://goo.gl/GtPR3 )
