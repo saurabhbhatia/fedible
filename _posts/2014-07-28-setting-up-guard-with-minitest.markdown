@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting up guard with minitest"
-date:   2015-07-28 21:19:30 +1000
+date:   2014-07-28 21:19:30 +1000
 ---
 Guard is a tool to autorun tests as and when they are created. It basically runs a background process that continuously checks for the tests. As soon as they are created, it runs and provides the results. I feel it is an essential thing to increase the pace of work with the tests.
 
@@ -44,3 +44,28 @@ We can also uncomment the Rails 4 test watch rules. So, guard will now watch min
 {% endhighlight %}
 
 We will try and run our guard now. Make sure you run the command using bundle exec guard else guard will throw a warning. This is to inform guard that we are using bundler to manage our gems.
+
+{% highlight shell %}
+$ bundle exec guard
+12:21:21 - INFO - Guard is using NotifySend to send notifications.
+12:21:21 - INFO - Guard is using TerminalTitle to send notifications.
+12:21:21 - INFO - Guard::Minitest 2.3.1 is running, with Minitest::Unit 5.4.0!
+12:21:21 - INFO - Running: all tests
+[Coveralls] Set up the SimpleCov formatter.
+[Coveralls] Using SimpleCov's 'rails' settings.
+[Coveralls] Outside the Travis environment, not sending data.
+Run options: --seed 52918
+
+# Running:
+
+......
+
+Finished in 0.174430s, 34.3978 runs/s, 63.0627 assertions/s.
+
+6 runs, 11 assertions, 0 failures, 0 errors, 0 skips
+
+12:21:25 - INFO - Guard is now watching at '/home/saurabh/mealr'
+[1] guard(main)>
+{% endhighlight %}
+
+We are good to go now!
