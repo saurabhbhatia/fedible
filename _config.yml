@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I am a programmer, writer, author, science and art lover. I currently work with Ruby, Rails,
   Ubuntu, ReactJS, Angular JS, PostgreSQL, various AWS products, Chef, Hashicorp products.
 baseurl: "/fedible" # the subpath of your site, e.g. /blog
-url: "https://fedible.org" # the base hostname & protocol for your site
+url: "http://fedible.org" # the base hostname & protocol for your site
 twitter_username: _wub
 github_username:  saurabhbhatia
 gems:
