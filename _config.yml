@@ -20,6 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Ubuntu, ReactJS, Angular JS, PostgreSQL, various AWS products, Chef, Hashicorp products.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fedible.org" # the base hostname & protocol for your site
+enforce_ssl: "http://fedible.org"
+
 twitter_username: _wub
 github_username:  saurabhbhatia
 gems:
