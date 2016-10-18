@@ -18,12 +18,19 @@ permalink: /speaking-and-writing/
 ## Talks
 
 - RubyConf Brazil 2011 - [HTML5 websockets in Rails](http://evts.at/1fKv9m2)
-- RubyConf Taiwan 2014 - Lightening talk - MongoDB Everything
-- Mumbai Ruby Meetup - [Barrister RPC](https://drive.google.com/file/d/0ByHaJIp_Oob4MlA3dXlxZWx3Q0U/view)
+- RubyConf Taiwan 2014 - [Lightening talk - RulingOrbit](https://speakerdeck.com/thewub/rulingorbit)
+  <script async class="speakerdeck-embed" data-id="30518060b24e013190c962aacf32eac0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+- Mumbai Ruby Meetup
+  [Rails API](https://speakerdeck.com/thewub/rails-api)
+  <script async class="speakerdeck-embed" data-id="38bd03907daa013188072eaa35b483aa" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  [Barrister RPC](https://speakerdeck.com/thewub/barrister-rpc)
   <script async class="speakerdeck-embed" data-id="c9f09b13b2d1413cbea4374e93552d36" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 - Elastic Meetup Sydney - [Geo Search with Elasic](http://slides.com/saurabhbhatia/geo-elastic#/)
   <iframe src="//slides.com/saurabhbhatia/geo-elastic/embed" width="640" height="480" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 - Conducted Workshops on HTML5 Programming, Free Software Licensing , Ubuntu Linux at various Universities across India as a part of freelance engagement with [iWillStudy](http://iwillstudy.com).
+- [CloudDays 2013](https://speakerdeck.com/thewub/cloud1)
+  <script async class="speakerdeck-embed" data-id="50708c7a60c404000200b446" data-ratio="1.33507170795306" src="//speakerdeck.com/assets/embed.js"></script>
+
 - Organizer, Open Source Entrepreneurship Forum a 2 Day 1 track conference in Hyderabad covered in [Wall Street Journal's Mint](http://goo.gl/GtPR3)
 - Represented India at Round Table Conference , SAARC (The South Asian Association for Regional Cooperation) for Open Source in Education 2006.
 
