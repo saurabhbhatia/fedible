@@ -23,6 +23,7 @@ permalink: /speaking-and-writing/
 - Mumbai Ruby Meetup
   [Rails API](https://speakerdeck.com/thewub/rails-api)
   <script async class="speakerdeck-embed" data-id="38bd03907daa013188072eaa35b483aa" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  [Link to talk](https://www.youtube.com/watch?v=7GD1eF3Hosk)
   [Barrister RPC](https://speakerdeck.com/thewub/barrister-rpc)
   <script async class="speakerdeck-embed" data-id="c9f09b13b2d1413cbea4374e93552d36" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 - Elastic Meetup Sydney - [Geo Search with Elasic](http://slides.com/saurabhbhatia/geo-elastic#/)
