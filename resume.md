@@ -59,7 +59,6 @@ permalink: /resume/
 Foundation team handles software that require automation to several business processes within the company. The team develops and maintains several applications, rubygems developed using
 Rails 4.2, Ruby 2.2.3, Angular JS 1.5, RSpec, Jasmine.
 
-- Won first prize in the Microsoft Azure Hackday. Built an app that analyzes facial expressions of the staff and  calculates their happiness index using Ruby, Rails, Java and Azure Cognative API.
 - Added static security scanning to build process.
 - Added dependency tracking for various projects.
 - Integrated reports from EMC2 watch4net into the CRM System.
@@ -197,6 +196,7 @@ Worked on various projects for internal use Spring Framework, Hibernate, MySQL, 
 
 ## Open Source & Community work
 
+-  Won first prize in the Microsoft Azure Hackday. Built an app that analyzes facial expressions of the staff and  calculates their happiness index using Ruby, Rails, Java and Azure Cognative API.
 - Contributor & Mentor, [Rails Bridge](https://github.com/railsbridge?tab=members)
 - [RubyGems Contributions](https://rubygems.org/profiles/saurabhbhatia)
 - Former Community lead at Twincling Open Source Community involved in active promotion of Open Source technologies in Hyderabad.
