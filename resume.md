@@ -45,7 +45,11 @@ permalink: /resume/
 
 ## Work History
 
-### March 2016 ­- Till Date
+### December 2016 - Till Date
+
+### Senior Software Engineer, [Airtasker](https://airtasker.com)
+
+### March 2016 ­- December 2016
 
 ### Ruby on Rails Developer, [Bulletproof Networks Ltd.](https://bulletproof.net.au)
 
