@@ -3,7 +3,7 @@ layout: post
 title:  "Integrate ActiveStorage with DigitalOcean Spaces"
 date:   2017-11-26 21:19:30 +1000
 ---
-I have been working on my side project comix for a while now. I decided to move it to Edge Rails because I wanted to use [ActiveStorage](https://github.com/rails/rails/tree/master/activestorage), a rails native library to upload files. Also, a major 5.2 release is closing in anyway, so it would be a good idea to make the application compatible with it.
+I have been working on my side project [comix](https://comix.life) for a while now. I decided to move it to Edge Rails because I wanted to use [ActiveStorage](https://github.com/rails/rails/tree/master/activestorage), a rails native library to upload files. Also, a major 5.2 release is closing in anyway, so it would be a good idea to make the application compatible with it.
 
 
 DigitalOcean recently introduced [Spaces](https://www.digitalocean.com/products/object-storage/). Their private object storage is one to look out for. Mainly due to pricing - 5$ a month for 250 GB storage and 1TB transfer a month!
