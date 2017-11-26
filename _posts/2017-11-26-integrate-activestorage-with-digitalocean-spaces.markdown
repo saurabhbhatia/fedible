@@ -53,8 +53,20 @@ From ActiveStorage documentation, here is what the two table fields do:
 
 Assuming you have a digitalocean account, first create a space.
 
-![Digitalocean menu](http://res.cloudinary.com/drg9hguhu/image/upload/v1511689099/Screen_Shot_2017-11-26_at_8.35.21_pm_lapq0a.png)
-
 ![Create space](http://res.cloudinary.com/drg9hguhu/image/upload/v1511689099/Screen_Shot_2017-11-26_at_8.34.56_pm_pnbhyo.png)
 
+To connect to DigitalOcean API, we need to create API key and secret for spaces.
+
+![Create API Keys](http://res.cloudinary.com/drg9hguhu/image/upload/v1511689784/Screen_Shot_2017-11-26_at_8.48.11_pm_xsb9mj.png)
+
 In order for ActiveStorage to connect to the service, we first need to create ```storage.yml``` inside the ```config``` folder of the app.
+
+{% highlight yml %}
+amazon:
+  service: S3
+  access_key_id: <DigitalOcean Spaces API Key>
+  secret_access_key: <DigitalOcean Spaces Secret>
+  region: nyc3
+  bucket: awesome-space
+  endpoint: 'https://nyc3.digitaloceanspaces.com'
+{% endhighlight %}
