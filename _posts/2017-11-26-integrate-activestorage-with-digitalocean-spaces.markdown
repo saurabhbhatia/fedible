@@ -3,7 +3,7 @@ layout: post
 title:  "Integrate ActiveStorage with DigitalOcean Spaces"
 date:   2017-11-26 21:19:30 +1000
 ---
-I have been working on my side project comix for a while now. I decided to move it to Edge Rails because I wanted to use [ActiveStorage](https://github.com/rails/rails/tree/master/activestorage), a rails native library to upload files. Also, a major 5.2 release is closing in anyway.
+I have been working on my side project comix for a while now. I decided to move it to Edge Rails because I wanted to use [ActiveStorage](https://github.com/rails/rails/tree/master/activestorage), a rails native library to upload files. Also, a major 5.2 release is closing in anyway, so it would be a good idea to make the application compatible with it.
 
 
 DigitalOcean recently introduced [Spaces](https://www.digitalocean.com/products/object-storage/). Their private object storage is one to look out for. Mainly due to pricing - 5$ a month for 250 GB storage and 1TB transfer a month!
@@ -12,7 +12,7 @@ The best thing about the service is, it's API is fully compatible with S3. So, b
 
 **Moving the the app to Edge Rails:**
 
-We need to first move our app from Rails 5.1.4 to Edge Rails. If you don't know what edge rails is, read more here.
+We need to first move our app from Rails 5.1.4 to Edge Rails. If you don't know what edge rails is, read more [here](http://edgeguides.rubyonrails.org/).
 
 So, point the rails branch to master in your ```Gemfile``` and run ```bundle install```. This will update a few gems like Arel and add new ones to your ```Gemfile.lock``` like ```ActiveStorage```.
 
