@@ -8,7 +8,7 @@ I have been working on my side project [comix](https://comix.life) for a while n
 
 DigitalOcean recently introduced [Spaces](https://www.digitalocean.com/products/object-storage/). Their private object storage is one to look out for. Mainly due to pricing - 5$ a month for 250 GB storage and 1TB transfer a month!
 
-The best thing about the service is, it's API is fully compatible with S3. So, both can be used interchangeably. A special shout out to [GoRails](https://gorails.com/episodes/digital-ocean-spaces-with-rails?autoplay=1), from where I got this idea.
+The best thing about the service is, it's API is fully compatible with S3. So, both can be used interchangeably. A special shout out to [Chris Oliver](https://twitter.com/excid3) from [GoRails](https://gorails.com/episodes/digital-ocean-spaces-with-rails?autoplay=1), from where I got this idea.
 
 **Moving the the app to Edge Rails:**
 
