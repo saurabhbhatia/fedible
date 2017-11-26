@@ -135,4 +135,30 @@ Now, in order to display this in a page, we can access the entire object. using 
 <%= image_tag(@product.product_image) %>
 {% endhighlight %}
 
-That's it, now you can render your attachment, object in any page you want to.
+That's it, now you can render your attachment, object in any page you want to. Logs show the following response from DigitalOcean.
+
+{%highlight shell%}
+app/views/products/show.html.erb:1:in `_app_views_products_show_html_erb__3935560012928142470_70094280869380'
+Started GET "/products/2" for 127.0.0.1 at 2017-11-26 19:12:16 +1100
+Processing by ProductsController#show as HTML
+  Parameters: {"id"=>"2"}
+  Product Load (0.2ms)  SELECT  "products".* FROM "products" WHERE "products"."id" = $1 LIMIT $2  [["id", 2], ["LIMIT", 1]]
+  Rendering products/show.html.erb within layouts/application
+  ActiveStorage::Attachment Load (0.4ms)  SELECT  "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = $1 AND "active_storage_attachments"."record_type" = $2 AND "active_storage_attachments"."name" = $3 LIMIT $4  [["record_id", 2], ["record_type", "Product"], ["name", "product_image"], ["LIMIT", 1]]
+  ActiveStorage::Blob Load (0.2ms)  SELECT  "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = $1 LIMIT $2  [["id", 1], ["LIMIT", 1]]
+  Rendered products/show.html.erb within layouts/application (7.1ms)
+  Member Load (0.9ms)  SELECT  "members".* FROM "members" WHERE "members"."id" = $1 ORDER BY "members"."id" ASC LIMIT $2  [["id", 1], ["LIMIT", 1]]
+  Rendered shared/_subheader.html.erb (0.3ms)
+  Rendered shared/_header.html.erb (49.9ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 478ms (Views: 468.9ms | ActiveRecord: 6.3ms)
+
+
+Started GET "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3efb5fcb2b4e3f57f5caee793b796d902289c4b2/Screen%20Shot%202017-11-13%20at%201.51.45%20pm.png" for 127.0.0.1 at 2017-11-26 19:12:17 +1100
+Processing by ActiveStorage::BlobsController#show as PNG
+  Parameters: {"signed_id"=>"<signed_id>", "filename"=>"Screen Shot 2017-11-13 at 1.51.45 pm"}
+  ActiveStorage::Blob Load (0.6ms)  SELECT  "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = $1 LIMIT $2  [["id", 1], ["LIMIT", 1]]
+  S3 Storage (4.0ms) Generated URL for file at key: <key> (asset-url)
+Redirected to <asset-url>&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=<cred>%2Fnyc3%2Fs3%2Faws4_request&X-Amz-Date=20171126T081217Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=<signature>
+Completed 302 Found in 9ms (ActiveRecord: 0.6ms)
+{%endhighlight%}
