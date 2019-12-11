@@ -45,7 +45,35 @@ permalink: /resume/
 
 ## Work History
 
-### December 2016 - Till Date
+### September 2018 - Till Date
+
+### Senior Engineer, [Dovetail Studios](https://dovetailstudios.com)
+
+- Work as tech lead on a large website and API that servers several million customers across Australia, NZ, USA and UK.
+- Lead technical direction of the project.
+- Onboard and get new developers up to speed.
+- Liase with multiple people on the client side, assertain and prioritize tasks.
+- Also fixed bugs in the React native mobile app.
+
+The client uses Ruby on Rails, Alchemy CMS, React JS, React Native.
+
+### January 2018 - September 2018
+
+### Lead Engineer, [Flaunter](https://flaunter.com)
+
+**Responsibilities:**
+
+- Decide architecture for the new app.
+- Developed features.
+- Hiring developers and onboard them.
+- Write API Docs
+- Built API in Ruby on Rails for Sample Tracking application.
+- Integrated Vue JS with Rails api. Wrote Vue JS and VueX code to do that.
+
+Flaunter greenfields build. Developed using Ruby 2.5, Rails 5.2, Vue JS, Postman API Docs.
+
+
+### December 2016 - December 2017
 
 ### Senior Software Engineer, [Airtasker](https://airtasker.com)
 
