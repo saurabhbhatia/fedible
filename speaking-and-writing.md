@@ -8,15 +8,14 @@ permalink: /speaking-and-writing/
 
 ### Published :
 
-[A book](https://www.packtpub.com/application-development/rails-4-application-development-hotshot) on Rails 4 projects that covers 10 different practical projects.
+![book cover](https://static.packt-cdn.com/products/9781783286294/cover/smaller)
 
-![book cover](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6294OS_cover.jpg)
+[A book on Rails]((https://www.packtpub.com/product/rails-4-application-development-hotshot/9781783286294)).
 
-### In Progress:
-[Elastic on Rails](https://leanpub.com/elasticsearchonrails)
 
 ## Talks
 
+- Serverless Conference NYC - [Infinitely scalable event sourcing using Serverless and Kinesis](https://acloud.guru/series/serverlessconf-nyc-2017/view/infinitely-scalable-event-sourcing)
 - RubyConf Brazil 2011 - [HTML5 websockets in Rails](http://evts.at/1fKv9m2)
 - RubyConf Taiwan 2014 - [Lightening talk - RulingOrbit](https://speakerdeck.com/thewub/rulingorbit)
   <script async class="speakerdeck-embed" data-id="30518060b24e013190c962aacf32eac0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
