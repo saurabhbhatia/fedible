@@ -4,6 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 
+## Summary
+
+As a engineer, I am most interested in making technology work for humans. I am keen, always on lookout to learn something new. During
+the course of my journey as a Software Engineer, I have worked in several disciplines of application development - systems engineering, software engineering,
+Web applicaiton development, DevOps. I have worked as an individual contributor as well as a leader. The human aspect of building teams and getting 
+people to work together interests me greatly apart from the obvious love of technology. Due to this, I have a successful track record of building
+highly motivated teams that deliver good quality products. My goal is to work on high impact projects that solve real work pain points for people.
+
 ## Education
 
 - Bachelor of Engineering , Electronics and Communication Engineering from Saurashtra University, 2001-2005
