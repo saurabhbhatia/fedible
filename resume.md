@@ -9,14 +9,16 @@ permalink: /resume/
 - Bachelor of Engineering , Electronics and Communication Engineering from Saurashtra University, 2001-2005
 
 ## Technology Knowhow:
-- Rails v 1.2.5 to v 5.0
-- Ruby 1.8.7, 1.9.3 , 2.2+
+- Rails v 1.2.5 to v 6.0
+- Ruby 1.8.7 - 2.6
 - RSpec, Capybara, WebMock
 - Jasmine, Gulp
 - Javascript
-- JQuery
-- React JS (Beginner)
-- Angular JS (Intermediate)
+- Next JS
+- React JS
+- React Native ( Beginner )
+- Angular JS
+- Vue JS
 - MySQL, MySQL Workbench / SQL Yog
 - PostgreSQL, pgadmin
 - MongoDB 2.4
@@ -47,19 +49,64 @@ permalink: /resume/
 
 ### September 2018 - Till Date
 
-### Senior Engineer, [Dovetail Studios](https://dovetailstudios.com)
+### Project Lead, [Dovetail Studios](https://dovetailstudios.com)
 
-- Work as tech lead on a large website and API that servers several million customers across Australia, NZ, USA and UK.
+Worked on 2 projects within Dovetail.
+
+**Project 1:**
+
+**Responsibilities:**
+
+Worked with a large investment bank in NZ to build backend platform in Scala. This platform served as backend for
+a mobile app, for encouraging millenials to invest in stock trading.
+
+**Technology Stack**
+
+- Scala
+- GraphQL
+- Kubernetes
+- Azure
+- Akka Http
+- Slick
+- PostgreSQL
+
+**Project 2:**
+
+**Responsibilities:**
+
+- Work as tech lead on a large website and API that servers several million customers across Australia, NZ, USA, UK and Canada.
+- Launched the platform in UK and Canada.
 - Lead technical direction of the project.
 - Onboard and get new developers up to speed.
-- Liase with multiple people on the client side, assertain and prioritize tasks.
+- Liase with multiple people on the client side, to determine project requirements and work through the complexities
+of the technical architecture.
 - Also fixed bugs in the React native mobile app.
+- Worked on deciding the architecutre.
+- Ensure high quality of code and work.
+- Ensure on time deliverability of code.
+- Ensure scalability and uptime of the platform during high traffic days.
+- Worked on integrating low code platforms like builder.io CMS with the website.
+- Build Future Frontend tech platforms for the client.
 
-The client uses Ruby on Rails, Alchemy CMS, React JS, React Native.
+**Technology Stack**
+
+- Ruby on Rails
+- Rails API
+- React JS
+- Next JS
+- Storybook
+- Builder CMS
+- Heroku
+- Cloudflare
+- Elasticsearch
+- React Native
 
 ### January 2018 - September 2018
 
 ### Lead Engineer, [Flaunter](https://flaunter.com)
+
+Joined Flaunter as a lead engineer. Built one complex web application called Sample tracking and started work on
+Flaunter discovery platform.
 
 **Responsibilities:**
 
@@ -68,16 +115,45 @@ The client uses Ruby on Rails, Alchemy CMS, React JS, React Native.
 - Hiring developers and onboard them.
 - Write API Docs
 - Built API in Ruby on Rails for Sample Tracking application.
+- Worked on internationalization of the platform and prepared for launching it in UK.
 - Integrated Vue JS with Rails api. Wrote Vue JS and VueX code to do that.
 
-Flaunter greenfields build. Developed using Ruby 2.5, Rails 5.2, Vue JS, Postman API Docs.
+**Technology Stack**
 
+ - Ruby 2.5
+ - Rails 5.2
+ - Vue JS
+ - Postman API Docs
+ - Heroku
 
 ### December 2016 - December 2017
 
 ### Senior Software Engineer, [Airtasker](https://airtasker.com)
 
-### March 2016 ­- December 2016
+**Responsibilities:**
+
+- Worked as a part of the Core team, reported directly to the CTO. 
+- Worked on core platform features like improving scalability and uptime of the platform.
+- Built an open source library using an event based data transport using aws tools.
+- Worked on trouble shooting complex problems like failure of databases at scale.
+- Create strategies for deployment to AWS
+- Worked on internationalization of the platform and prepared for launching it in the UK.
+
+**Technology Stack**
+
+- Ruby 2.5
+- Rails 5.0
+- Python
+- PostgreSQL
+- Serverless
+- AWS Lambda
+- AWS EC2
+- AWS ECS
+- DynamoDB
+- Elasticsearch
+- Kinesis
+
+### March 2016 - December 2016
 
 ### Ruby on Rails Developer, [Bulletproof Networks Ltd.](https://bulletproof.net.au)
 
@@ -88,8 +164,7 @@ Flaunter greenfields build. Developed using Ruby 2.5, Rails 5.2, Vue JS, Postman
 - Develop front end features.
 - Write developer style guide
 
-Foundation team handles software that require automation to several business processes within the company. The team develops and maintains several applications, rubygems developed using
-Rails 4.2, Ruby 2.2.3, Angular JS 1.5, RSpec, Jasmine.
+Foundation team handles software that require automation to several business processes within the company. The team develops and maintains several applications, rubygems developed using Rails 4.2, Ruby 2.2.3, Angular JS 1.5, RSpec, Jasmine.
 
 - Added static security scanning to build process.
 - Added dependency tracking for various projects.
@@ -99,6 +174,16 @@ systems in the company.
 - Finish frontend application for SMS and Email broadcasting in Angular JS.
 - Fix bugs and add new features to the frontend application.
 - Fix issues and develop new features in the backend Rails api.
+
+**Technology Stack**
+
+- Ruby 2.5
+- Rails 5.0
+- Golang
+- PostgreSQL
+- AWS EC2
+- Angular JS
+- VMWare
 
 ### September 2014 - March 2016
 
@@ -122,6 +207,16 @@ Flatmates.com.au greenfields build. Developed using Ruby 2.2.3, Rails 4.2.5, Ela
 - automate infrastructure using Opsworks Chef.
 - Use AWS Opsworks to build the infrastructure - EC2, RDS, Route53, Elasticcache.
 
+**Technology Stack**
+
+- Ruby 2.5
+- Rails 5.0
+- PostgreSQL
+- React
+- SCSS
+- AWS EC2
+- 
+
 ### August 2014 - September 2014
 
 ### Ruby on Rails Developer(Contract), [Faria Systems, Taipei](http://faria.co)
@@ -134,6 +229,12 @@ Worked on building v1 of the [SSO forward authentication API](https://develop.fa
 - Implement the SSO system.
 - Integrate multiple applications with SSO System.
 - User acceptance testing.
+
+**Technology Stack**
+
+- Ruby
+- Rails
+- PostgreSQL
 
 ### June 2013 – July 2014
 
